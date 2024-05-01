@@ -14,8 +14,8 @@ This project is a 2D game that implements the following game mechanics:
 - Including play button and exit button for the game
 
 ## Video Mood
-•	Click On the Link To see Game In running Mood
-•	https://drive.google.com/file/d/16cXUE53iYpKCIDmOkAAanjCpPbcqeqU2/view?usp=sharing
+-	Click On the Link To see Game In running Mood
+-	https://drive.google.com/file/d/16cXUE53iYpKCIDmOkAAanjCpPbcqeqU2/view?usp=sharing
 
 
 ## Installation
