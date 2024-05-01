@@ -46,6 +46,7 @@ public class CarMovement : MonoBehaviour
         //Debug.Log(spriteRenderer.color.ToString());
         if (collision.gameObject.tag =="customer" && pkgPick==1)
         {
+            Debug.Log("Inside Customer");
             // Deactivate the GameObject
             spriteRenderer.color = Color.blue;
             //customer.SetActive(false);
